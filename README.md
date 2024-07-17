@@ -23,6 +23,7 @@ Without farder ado lets code some code!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+<!--
 ## Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -30,3 +31,4 @@ Without farder ado lets code some code!
 
 [linkedin]: https://www.linkedin.com/in/imanolcondegonzalez/
 [twitter]: https://x.com/conde_imanol
+-->
