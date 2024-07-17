@@ -10,7 +10,6 @@ Without farder ado lets code some code!
 
 - 🔭 I’m currently working on Web3 development
 - 🌱 I’m currently learning Starknet and Madara
-- 🤔 I’m looking for help with my blockchain journey
 - 💬 Ask me about anything you want
 - 📫 How to reach me: imanolcondeimanol@gmail.com
 - ⚡ Fun fact: I am a type 1 diabetic
