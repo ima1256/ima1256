@@ -1,6 +1,10 @@
 # Hey brother, I'm Imanol Conde
 
-Welcome to my GitHub profile!
+I am a Full-Stack engineer that graduated from the university of the basque country in 2024. Got some experience in the field through interships and a full time job. Currently I am learning full time about Web3 development and I cannot wait to connect with you! 
+
+I define my self as an open person and passionate about technology related to AI that is my speciality in uni and Web3 that is what have cautivated me in this last time in the industry. 
+
+Without farder ado lets code some code!
 
 ## About Me
 
