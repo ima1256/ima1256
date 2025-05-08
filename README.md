@@ -3,17 +3,11 @@
 <h3 align="center">🌐 Connect with me:</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank" style="margin: 10px;">
+  <a href="https://linkedin.com/in/imanolcondegonzalez" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank" style="margin: 10px;">
+  <a href="https://twitter.com/ima1256" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/yourusername" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
