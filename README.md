@@ -11,9 +11,7 @@
 
 # 🙋‍♂️ About me
 
-Profile Views:
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ima1256.ima1256)
+![Profile Views](https://komarev.com/ghpvc/?username=ima1256&label=Profile%20Views&color=0e75b6&style=flat)
 
 I'm from Spain ES, currently working on the GMT+1 timezone, since I started coding in aerospace engineering 🚀 I was hooked with coding although I dropped out. 
 
