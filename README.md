@@ -9,7 +9,27 @@
   </a>
 </div>
 
-## About Me
+# 🙋‍♂️ About me
+
+Profile Views:
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+I'm from Spain ES, currently working on the GMT+1 timezone, since I started coding in aerospace engineering 🚀 I was hooked with coding although I dropped out. 
+
+Anyway when I am not coding MERN apps live 🔴 or at my job I like to read about economy 🏦 and history or do some exercise 🏋️ while listening to XXX Tentacion 🎶
+
+# 🔭 I'm currently working on
+
+- My portfolio website
+- A real time animation testing app with ChatGPT integration
+
+# 🌱 I’m currently learning
+
+- React
+- Econony 
+
+# 📫 How to reach me
 
 ## GitHub Stats
 
