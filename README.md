@@ -1,7 +1,5 @@
 # Hi there 👋, my name is Imanol Conde
 
-<h3 align="center">🌐 Connect with me:</h3>
-
 <div align="center">
   <a href="https://linkedin.com/in/imanolcondegonzalez" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
