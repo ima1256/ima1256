@@ -9,20 +9,7 @@
   </a>
 </div>
 
-
-I am a Full-Stack engineer that graduated from the university of the basque country in 2024. Got some experience in the field through interships and a full time job. Currently I am learning full time about Web3 development and I cannot wait to connect with you! 
-
-I define my self as an open person and passionate about technology related to AI that is my speciality in uni and Web3 that is what have cautivated me in this last time in the industry. 
-
-Without farder ado lets code some code!
-
 ## About Me
-
-- 🔭 I’m currently working on Web3 development
-- 🌱 I’m currently learning Starknet and Madara
-- 💬 Ask me about anything you want
-- 📫 How to reach me: imanolcondeimanol@gmail.com
-- ⚡ Fun fact: I am a type 1 diabetic
 
 ## GitHub Stats
 
