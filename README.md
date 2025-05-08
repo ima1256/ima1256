@@ -25,7 +25,7 @@ Anyway when I am not coding MERN apps live 🔴 or at my job I like to read abou
 # 🌱 I’m currently learning
 
 - React
-- Econony 
+- Economy 
 
 # 📫 How to reach me
 
