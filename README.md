@@ -1,5 +1,10 @@
 # Hi there 👋, my name is Imanol Conde
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://yourwebsite.com)
+
 I am a Full-Stack engineer that graduated from the university of the basque country in 2024. Got some experience in the field through interships and a full time job. Currently I am learning full time about Web3 development and I cannot wait to connect with you! 
 
 I define my self as an open person and passionate about technology related to AI that is my speciality in uni and Web3 that is what have cautivated me in this last time in the industry. 
