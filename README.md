@@ -1,4 +1,4 @@
-# Hey brother, I'm Imanol Conde
+# Hi there 👋, my name is Imanol Conde
 
 I am a Full-Stack engineer that graduated from the university of the basque country in 2024. Got some experience in the field through interships and a full time job. Currently I am learning full time about Web3 development and I cannot wait to connect with you! 
 
