@@ -55,7 +55,19 @@ Outside of coding, I'm into economics 🏦, history, and working out 🏋️ —
 - **Economy**: Expanding my knowledge on economics through books and articles.
 
 
-# 📫 How to reach me
+# 📫 How to Reach Me
+
+Feel free to contact me through any of the platforms below:
+
+- **Discord**: [Imanol#1234](https://discord.com/users/664134294205104133)  
+  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+
+- **Email**: [imanol@example.com](mailto:imanolcondeimanol@gmail.com)  
+  ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
+
+- **X (formerly Twitter)**: [@ima1256](https://x.com/ima1256)  
+  ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
+
 
 ## GitHub Stats
 
@@ -64,13 +76,3 @@ Outside of coding, I'm into economics 🏦, history, and working out 🏋️ —
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ima1256&layout=compact&theme=radical)
-
-<!--
-## Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[linkedin]: https://www.linkedin.com/in/imanolcondegonzalez/
-[twitter]: https://x.com/conde_imanol
--->
