@@ -27,23 +27,33 @@
 
 
 
-# 🙋‍♂️ About me
+# 🙋‍♂️ About Me
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ima1256&label=Profile%20Views&color=0e75b6&style=flat)
 
-I'm from Spain ES, currently working on the GMT+1 timezone, since I started coding in aerospace engineering 🚀 I was hooked with coding although I dropped out. 
+Hi there! I'm Imanol from Spain 🇪🇸, currently based in the GMT+1 timezone.  
+I first got into coding through aerospace engineering 🚀 — and even though I eventually dropped out, I found my passion in software development.
 
-Anyway when I am not coding MERN apps live 🔴 or at my job I like to read about economy 🏦 and history or do some exercise 🏋️ while listening to XXX Tentacion 🎶
+These days, I build full-stack MERN applications (often live 🔴) and work professionally as a developer.  
+Outside of coding, I'm into economics 🏦, history, and working out 🏋️ — usually with XXXTentacion playing in the background 🎶.
 
-# 🔭 I'm currently working on
 
-- My portfolio website
-- A real time animation testing app with ChatGPT integration
+# 🔭 I'm Currently Working On
 
-# 🌱 I’m currently learning
+![Portfolio Website](https://img.shields.io/badge/Project-Portfolio%20Website-0e75b6?style=flat&logo=html5&logoColor=white)  
+- **Portfolio Website**: Building my personal portfolio to showcase my work and projects.
 
-- React
-- Economy 
+![Real-Time Animation](https://img.shields.io/badge/Project-Real%20Time%20Animation-ff6347?style=flat&logo=react&logoColor=white)  
+- **Real-Time Animation Testing App**: Developing an app that integrates animation testing with ChatGPT for real-time feedback.
+
+# 🌱 I’m Currently Learning
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
+- **React**: Diving deeper into React to build more dynamic user interfaces.
+
+![Economics](https://img.shields.io/badge/Economy-%F0%9F%93%B8%20Learning-ff6347?style=flat&logo=book&logoColor=white)  
+- **Economy**: Expanding my knowledge on economics through books and articles.
+
 
 # 📫 How to reach me
 
