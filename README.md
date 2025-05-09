@@ -4,6 +4,9 @@
     <a href="https://www.youtube.com/@imanolcondegonzalez" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
+    <a href="mailto:imanol@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
     <a href="https://linkedin.com/in/imanolcondegonzalez" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -54,6 +57,7 @@ Outside of coding, I'm into economics 🏦, history, and working out 🏋️ —
 ![Economics](https://img.shields.io/badge/Economy-%F0%9F%93%B8%20Learning-ff6347?style=flat&logo=book&logoColor=white)  
 - **Economy**: Expanding my knowledge on economics through books and articles.
 
+<!--
 
 # 📫 How to Reach Me
 
@@ -67,7 +71,7 @@ Feel free to contact me through any of the platforms below:
 
 - **X**: (https://x.com/ima1256)  
   ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
-
+-->
 
 ## GitHub Stats
 
