@@ -1,8 +1,6 @@
 # Hi there 👋, my name is Imanol Conde
 
 <div align="center">
-
-  <p align="center">
     <a href="https://www.youtube.com/@imanolcondegonzalez" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
@@ -24,7 +22,6 @@
     <a href="https://www.facebook.com/imanol.conde.37" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-  </p>
 </div>
 
 # 🙋‍♂️ About me
