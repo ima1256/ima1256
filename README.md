@@ -42,6 +42,7 @@ I first got into coding through aerospace engineering 🚀 — and even though I
 These days, I build full-stack MERN applications (often live 🔴) and work professionally as a developer.  
 Outside of coding, I'm into economics 🏦, history, and working out 🏋️ — usually with XXXTentacion playing in the background 🎶.
 
+![Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 # 🔭 I'm Currently Working On
 
