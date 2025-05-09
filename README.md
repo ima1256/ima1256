@@ -51,8 +51,10 @@ Outside of coding, I'm into economics 🏦, history, and working out 🏋️ —
 ![Portfolio Website](https://img.shields.io/badge/Project-Portfolio%20Website-0e75b6?style=flat&logo=html5&logoColor=white)  
 - **Portfolio Website**: Building my personal portfolio to showcase my work and projects.
 
+<!--
 ![Real-Time Animation](https://img.shields.io/badge/Project-Real%20Time%20Animation-ff6347?style=flat&logo=react&logoColor=white)  
 - **Real-Time Animation Testing App**: Developing an app that integrates animation testing with ChatGPT for real-time feedback.
+-->
 
 # 🌱 I’m Currently Learning
 
@@ -62,21 +64,6 @@ Outside of coding, I'm into economics 🏦, history, and working out 🏋️ —
 ![Economics](https://img.shields.io/badge/Economy-%F0%9F%93%B8%20Learning-ff6347?style=flat&logo=book&logoColor=white)  
 - **Economy**: Expanding my knowledge on economics through books and articles.
 
-<!--
-
-# 📫 How to Reach Me
-
-Feel free to contact me through any of the platforms below:
-
-- **Discord**: (https://discord.com/users/664134294205104133)  
-  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-
-- **Email**: (mailto:imanolcondeimanol@gmail.com)  
-  ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-
-- **X**: (https://x.com/ima1256)  
-  ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
--->
 
 ## GitHub Stats
 
