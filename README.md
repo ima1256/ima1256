@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Imanol Conde
 
-<div align="center">
+<div align="center" sytle="border-radious: 10px">
     <a href="https://www.youtube.com/@imanolcondegonzalez" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
