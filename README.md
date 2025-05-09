@@ -65,7 +65,7 @@ Feel free to contact me through any of the platforms below:
 - **Email**: [imanol@example.com](mailto:imanolcondeimanol@gmail.com)  
   ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
 
-- **X (formerly Twitter)**: [@ima1256](https://x.com/ima1256)  
+- **X**: [@ima1256](https://x.com/ima1256)  
   ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
 
 
