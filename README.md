@@ -31,7 +31,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ima1256&label=Profile%20Views&color=0e75b6&style=flat)
 
-Hi there! I'm Imanol from Spain 🇪🇸, currently based in the GMT+1 timezone.  
+I'm Imanol from Spain 🇪🇸, currently based in the GMT+1 timezone.  
 I first got into coding through aerospace engineering 🚀 — and even though I eventually dropped out, I found my passion in software development.
 
 These days, I build full-stack MERN applications (often live 🔴) and work professionally as a developer.  
