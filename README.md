@@ -1,26 +1,27 @@
 # Hi there 👋, my name is Imanol Conde
 
 <div align="center" >
-    <a href="https://www.youtube.com/@imanolcondegonzalez" target="_blank">
+<!--     <a href="https://www.youtube.com/@imanolcondegonzalez" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-    </a>
+    </a> -->
     <!--
     <a href="mailto:imanolcondeimanol@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     -->
-    <a href="https://linkedin.com/in/imanolcondegonzalez" target="_blank">
+<!--     <a href="https://linkedin.com/in/imanolcondegonzalez" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-<!--     <a href="https://discord.com/invite/UxNXrBukjZ" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a> -->
+    <a href="https://discord.com/invite/UxNXrBukjZ" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
 <!--     <a href="https://twitter.com/ima1256" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a> -->
-<!--     <a href="https://open.spotify.com/user/cq1ew5ln3qf62ekvotzfvhpc4?si=dab169a8b5fa476e" target="_blank">
+    <a href="https://open.spotify.com/user/cq1ew5ln3qf62ekvotzfvhpc4?si=dab169a8b5fa476e" target="_blank">
       <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
     </a>
+    <!--
     <a href="https://www.facebook.com/imanol.conde.37" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a> -->
