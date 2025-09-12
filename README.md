@@ -37,11 +37,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ima1256&label=Profile%20Views&color=0e75b6&style=flat)
 
-I'm Imanol from Spain 🇪🇸, currently based in the GMT+1 timezone.  
-I first got into coding through aerospace engineering 🚀 — and even though I eventually dropped out, I found my passion in software development.
+🌟 Hey, I'm Imanol! 🇪🇸 Hailing from Spain and vibing in the GMT+1 timezone.
 
-These days, I build full-stack MERN applications (often live 🔴) and work professionally as a developer.  
-Outside of coding, I'm into economics 🏦, history, and working out 🏋️ — usually with XXXTentacion playing in the background 🎶.
+🚀 My coding journey kicked off in aerospace engineering, where I dreamed of building spaceships.
+
+Though I left that path, I discovered my true calling in software development.
+
+💻 Now, I’m all about crafting sleek full-stack MERN applications (MongoDB, Express.js, React, Node.js), often streaming my coding sessions live 🔴 for the world to see!
+
+By day, I’m a professional developer, building robust and scalable apps.
+
+By night, I dive into my passions: economics 📈, history 📚, and hitting the gym 🏋️‍♂️—all while blasting XXXTentacion tunes 🎶 to keep the vibes high.
+
+🌈 Let’s connect, code, and create something awesome together!
 
 <!--
 ![Demo]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif])
