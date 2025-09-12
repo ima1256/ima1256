@@ -37,7 +37,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ima1256&label=Profile%20Views&color=0e75b6&style=flat)
 
-🌟 Hey, I'm Imanol! 🇪🇸 Hailing from Spain and vibing in the GMT+1 timezone.
+🌟 Hey is everything ok?
 
 🚀 My coding journey kicked off in aerospace engineering, where I dreamed of building spaceships.
 
