@@ -32,52 +32,45 @@
 
 
 
+🌟 Hey, I'm Imanol! 🇪🇸
+Welcome to my GitHub! I'm a full-stack MERN developer from Spain, living in the GMT+1 timezone, with a passion for building sleek, scalable apps and exploring the universe of code. 🚀  
+🚀 About Me
 
-# 🙋‍♂️ About Me
+From Aerospace to Code: My journey started in aerospace engineering, dreaming of spaceships, but I found my true calling in software development.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=ima1256&label=Profile%20Views&color=0e75b6&style=flat)
+What I Do: I craft full-stack MERN applications (MongoDB, Express.js, React, Node.js) and love streaming my coding sessions live 🔴 to share the process.  
 
-🌟 Hey is everything ok?
-
-🚀 My coding journey kicked off in aerospace engineering, where I dreamed of building spaceships.
-
-Though I left that path, I discovered my true calling in software development.
-
-💻 Now, I’m all about crafting sleek full-stack MERN applications (MongoDB, Express.js, React, Node.js), often streaming my coding sessions live 🔴 for the world to see!
-
-By day, I’m a professional developer, building robust and scalable apps.
-
-By night, I dive into my passions: economics 📈, history 📚, and hitting the gym 🏋️‍♂️—all while blasting XXXTentacion tunes 🎶 to keep the vibes high.
-
-🌈 Let’s connect, code, and create something awesome together!
-
-<!--
-![Demo]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif])
--->
-
-# 🔭 I'm Currently Working On
-
-![Portfolio Website](https://img.shields.io/badge/Project-Portfolio%20Website-0e75b6?style=flat&logo=html5&logoColor=white)  
-- **Portfolio Website**: Building my personal portfolio to showcase my work and projects.
-
-<!--
-![Real-Time Animation](https://img.shields.io/badge/Project-Real%20Time%20Animation-ff6347?style=flat&logo=react&logoColor=white)  
-- **Real-Time Animation Testing App**: Developing an app that integrates animation testing with ChatGPT for real-time feedback.
--->
-
-# 🌱 I’m Currently Learning
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
-- **React**: Diving deeper into React to build more dynamic user interfaces.
-
-![Economics](https://img.shields.io/badge/Economy-%F0%9F%93%B8%20Learning-ff6347?style=flat&logo=book&logoColor=white)  
-- **Economy**: Expanding my knowledge on economics through books and articles.
+Professional Life: By day, I’m a pro developer building robust apps. By night, I dive into economics 📈, history 📚, and hit the gym 🏋️‍♂️ with XXXTentacion pumping through my headphones 🎶.
 
 
-## GitHub Stats
+🔭 Current Projects
+  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ima1256&show_icons=true&theme=radical)
+Portfolio Website: Designing a sleek personal portfolio to showcase my projects and skills.
 
-## Top Languages
+  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ima1256&layout=compact&theme=radical)
+Real-Time Animation App: Building an interactive app with React and ChatGPT integration for real-time animation feedback.
+
+🌱 What I’m Learning
+  
+
+React: Leveling up my skills to create dynamic, user-friendly interfaces.
+
+  
+
+Economics: Deepening my understanding of markets and systems through books and research.
+
+  
+
+TypeScript: Exploring type-safe coding to enhance my MERN stack projects.
+
+📊 GitHub Stats
+  
+💻 Top Languages
+  
+🌈 Let’s Connect!
+
+Catch my live coding sessions on [Twitch/YouTube] (link placeholder) 🔴  
+Chat with me about code, economics, or history on [X] (https://x.com/yourusername) 📩  
+Let’s build something out-of-this-world together! 🚀
