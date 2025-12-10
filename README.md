@@ -10,7 +10,6 @@
 🌟 Hey, I'm Imanol! 🇪🇸
 
 Welcome to my GitHub! I'm a full-stack MERN developer from Spain, living in the GMT+1 timezone, with a passion for building sleek, scalable 
-
 apps and exploring the universe of code. 🚀  
 
 
