@@ -7,48 +7,47 @@
 </div>
 
 
-
 🌟 Hey, I'm Imanol! 🇪🇸
 
-Welcome to my GitHub! I'm a full-stack MERN developer from Spain, living in the GMT+1 timezone, with a passion for building sleek, scalable apps and exploring the universe of code. 🚀  
+Welcome to my GitHub! I'm a full-stack MERN developer from Spain, living in the GMT+1 timezone, with a passion for building sleek, scalable 
+
+apps and exploring the universe of code. 🚀  
+
 
 🚀 About Me
 
-From Aerospace to Code: My journey started in aerospace engineering, dreaming of spaceships, but I found my true calling in software development.  
+From Aerospace to Code: My journey started in aerospace engineering, dreaming of spaceships, but I found my true calling in software 
 
-What I Do: I craft full-stack MERN applications (MongoDB, Express.js, React, Node.js) and love streaming my coding sessions live 🔴 to share the process.  
+development.  
 
-Professional Life: By day, I’m a pro developer building robust apps. By night, I dive into economics 📈, history 📚, and hit the gym 🏋️‍♂️ with XXXTentacion pumping through my headphones 🎶.
+What I Do: I craft full-stack MERN applications (MongoDB, Express.js, React, Node.js).
+
+Professional Life: By day, I’m a profesional developer building robust apps. By night, I dive into economics 📈, history 📚, and hit the gym 
+
+🏋️‍♂️ with XXXTentacion pumping through my headphones 🎶.
 
 
 🔭 Current Projects
   
-
 Portfolio Website: Designing a sleek personal portfolio to showcase my projects and skills.
-
-  
 
 Real-Time Animation App: Building an interactive app with React and ChatGPT integration for real-time animation feedback.
 
+
 🌱 What I’m Learning
   
-
 React: Leveling up my skills to create dynamic, user-friendly interfaces.
 
-  
-
-Economics: Deepening my understanding of markets and systems through books and research.
-
-  
+C and C++: Building the foundation on linux programming and networking around embeded systems.
 
 TypeScript: Exploring type-safe coding to enhance my MERN stack projects.
 
-📊 GitHub Stats
-  
-💻 Top Languages
-  
-🌈 Let’s Connect!
 
-Catch my live coding sessions on [Twitch/YouTube] (link placeholder) 🔴  
-Chat with me about code, economics, or history on [X] (https://x.com/yourusername) 📩  
-Let’s build something out-of-this-world together! 🚀
+🌈 Let’s Connect, let’s build something out-of-this-world together! 🚀
+
+
+
+
+
+
+
