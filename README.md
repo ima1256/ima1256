@@ -1,15 +1,4 @@
-# Hi there 👋, my name is Imanol Conde
-
-<div align="center" >
-
-</div>
-
-
-🌟 Hey, I'm Imanol! 🇪🇸
-
-Welcome to my GitHub! I'm a full-stack MERN developer from Spain, living in the GMT+1 timezone, with a passion for building sleek, scalable 
-apps and exploring the universe of code. 🚀  
-
+#👋 Imanol Conde Here
 
 🚀 About Me
 
@@ -19,9 +8,7 @@ development.
 
 What I Do: I craft full-stack MERN applications (MongoDB, Express.js, React, Node.js).
 
-Professional Life: By day, I’m a profesional developer building robust apps. By night, I dive into economics 📈, history 📚, and hit the gym 
-
-🏋️‍♂️ with XXXTentacion pumping through my headphones 🎶.
+Professional Life: By day, I’m a profesional developer building robust apps. 
 
 
 🔭 Current Projects
