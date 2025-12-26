@@ -15,7 +15,9 @@ During this last years I crafted full-stack applications using technologies like
 
 But after thinking about it I realized that what I enjoyed the most in college was not the AI classes or our time building applications 
 
-with high level languages but actually the times where I listened to the lectures of our 4 or 5 computer engineering subjects, I always had this tendency of asking myself why things work that way.
+with high level languages but actually the times where I listened to the lectures of our 4 or 5 computer engineering subjects, I always had this tendency
+
+of asking myself why things work that way.
 
 
 🌱 What I’m Learning
