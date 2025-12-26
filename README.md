@@ -4,31 +4,30 @@
 
 From Aerospace to Code: My journey started in aerospace engineering, dreaming of spaceships, but I found my true calling in software 
 
-development.  
+development. I liked the idea of programming in C in our coding classes and always dreamed about coding robots or physical systems one day 
 
-What I Do: I craft full-stack MERN applications (MongoDB, Express.js, React, Node.js).
-
-Professional Life: By day, I’m a profesional developer building robust apps. 
+that's why after seeing some amazing boston dynamics videos picked CS as my major. 
 
 
-🔭 Current Projects
-  
-Portfolio Website: Designing a sleek personal portfolio to showcase my projects and skills.
+🧠 What I Do: 
 
-Real-Time Animation App: Building an interactive app with React and ChatGPT integration for real-time animation feedback.
+During this last years I crafted full-stack applications using technologies like MongoDB, Express.js, React or Node.js among others. 
+
+But after thinking about it I realized that what I enjoyed the most in college was not the AI classes or our time building applications 
+
+with high level languages but actually the times where I listened to the lectures of our 4 or 5 computer engineering subjects, I always had this tendency of asking myself why things 
+
+work that way.
 
 
 🌱 What I’m Learning
-  
-React: Leveling up my skills to create dynamic, user-friendly interfaces.
 
-C and C++: Building the foundation on linux programming and networking around embeded systems.
+C and C++: Building the foundation on linux programming and networks in order to build the next generation of embeded systems one day. 
 
-TypeScript: Exploring type-safe coding to enhance my MERN stack projects.
+Python: Exploring more features of this high level popular language to automate my daily tasks. 
 
 
-🌈 Let’s Connect, let’s build something out-of-this-world together! 🚀
-
+🌈 Let’s Connect and build something cool. 
 
 
 
